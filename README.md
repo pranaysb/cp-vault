@@ -1,0 +1,72 @@
+# CP Vault 
+
+Welcome to my Competitive Programming and DSA vault!
+
+## Statistics
+- **800**: 33 problems
+- **900**: 6 problems
+- **1000**: 7 problems
+- **1100**: 3 problems
+- **1300**: 2 problems
+- **1500**: 1 problems
+- **Unrated**: 4 problems
+
+## Codeforces Problems
+| Problem | Rating | Tags | Solution |
+|---------|--------|------|----------|
+| [2167B - Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | sortings, strings | [Solution](Codeforces/800/B_Your_Name.cpp) |
+| [2218B - The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | greedy, math | [Solution](Codeforces/800/B_The_67_th_6_7_Integer_Problem.cpp) |
+| [2179B - Blackslex and Showering](https://codeforces.com/contest/2179/problem/B) | 800 | dp, greedy, implementation | [Solution](Codeforces/800/B_Blackslex_and_Showering.cpp) |
+| [2171A - Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | 800 | brute force, math | [Solution](Codeforces/800/A_Shizuku_Hoshikawa_and_Farm_Legs.cpp) |
+| [2175A - Little Fairy's Painting](https://codeforces.com/contest/2175/problem/A) | 800 | implementation | [Solution](Codeforces/800/A_Little_Fairy_s_Painting.cpp) |
+| [2173A - Sleeping Through Classes](https://codeforces.com/contest/2173/problem/A) | 800 | greedy, implementation | [Solution](Codeforces/800/A_Sleeping_Through_Classes.cpp) |
+| [2208A - Bingo Candies](https://codeforces.com/contest/2208/problem/A) | 800 | constructive algorithms, math | [Solution](Codeforces/800/A_Bingo_Candies.cpp) |
+| [2236B - Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | greedy, math, strings | [Solution](Codeforces/800/B_Tatar_TV_Show.cpp) |
+| [2191A - Array Coloring](https://codeforces.com/contest/2191/problem/A) | 800 | constructive algorithms | [Solution](Codeforces/800/A_Array_Coloring.cpp) |
+| [723A - The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | implementation, math, sortings | [Solution](Codeforces/800/A_The_New_Year_Meeting_Friends.cpp) |
+| [2167B - Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | sortings, strings | [Solution](Codeforces/800/B_Your_Name.py) |
+| [2180A - Carnival Wheel](https://codeforces.com/contest/2180/problem/A) | 800 | brute force, number theory | [Solution](Codeforces/800/A_Carnival_Wheel.py) |
+| [2179A - Blackslex and Password](https://codeforces.com/contest/2179/problem/A) | 800 | math, strings | [Solution](Codeforces/800/A_Blackslex_and_Password.cpp) |
+| [2218A - The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | brute force, games, implementation, math | [Solution](Codeforces/800/A_The_67_th_Integer_Problem.cpp) |
+| [2236A - Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | greedy, math | [Solution](Codeforces/800/A_Games_on_the_Train.cpp) |
+| [2180A - Carnival Wheel](https://codeforces.com/contest/2180/problem/A) | 800 | brute force, number theory | [Solution](Codeforces/800/A_Carnival_Wheel.cpp) |
+| [2172A - ASCII Art Contest](https://codeforces.com/contest/2172/problem/A) | 800 | implementation | [Solution](Codeforces/800/A_ASCII_Art_Contest.cpp) |
+| [2193B - Reverse a Permutation](https://codeforces.com/contest/2193/problem/B) | 800 | greedy | [Solution](Codeforces/800/B_Reverse_a_Permutation.cpp) |
+| [2211A - Antimedian Deletion](https://codeforces.com/contest/2211/problem/A) | 800 | implementation, math | [Solution](Codeforces/800/A_Antimedian_Deletion.cpp) |
+| [2197A - Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | binary search, brute force, expression parsing, math, schedules | [Solution](Codeforces/800/A_Friendly_Numbers.cpp) |
+| [2193A - DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | brute force, math | [Solution](Codeforces/800/A_DBMB_and_the_Array.cpp) |
+| [2172A - ASCII Art Contest](https://codeforces.com/contest/2172/problem/A) | 800 | implementation | [Solution](Codeforces/800/A_ASCII_Art_Contest.py) |
+| [2210A - A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | constructive algorithms, dp, greedy, number theory | [Solution](Codeforces/800/A_A_Simple_Sequence.cpp) |
+| [2209A - Flip Flops](https://codeforces.com/contest/2209/problem/A) | 800 | greedy | [Solution](Codeforces/800/A_Flip_Flops.cpp) |
+| [2204B - Right Maximum](https://codeforces.com/contest/2204/problem/B) | 800 | greedy | [Solution](Codeforces/800/B_Right_Maximum.cpp) |
+| [268A - Games](https://codeforces.com/contest/268/problem/A) | 800 | brute force | [Solution](Codeforces/800/A_Games.cpp) |
+| [151A - Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | implementation, math | [Solution](Codeforces/800/A_Soft_Drinking.py) |
+| [2173A - Sleeping Through Classes](https://codeforces.com/contest/2173/problem/A) | 800 | greedy, implementation | [Solution](Codeforces/800/A_Sleeping_Through_Classes.py) |
+| [2185A - Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | constructive algorithms, math | [Solution](Codeforces/800/A_Perfect_Root.cpp) |
+| [2194A - Lawn Mower](https://codeforces.com/contest/2194/problem/A) | 800 | greedy, math | [Solution](Codeforces/800/A_Lawn_Mower.cpp) |
+| [2204A - Passing the Ball](https://codeforces.com/contest/2204/problem/A) | 800 | brute force, implementation | [Solution](Codeforces/800/A_Passing_the_Ball.cpp) |
+| [2162A - Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | brute force, greedy | [Solution](Codeforces/800/A_Beautiful_Average.py) |
+| [2185B - Prefix Max](https://codeforces.com/contest/2185/problem/B) | 800 | greedy | [Solution](Codeforces/800/B_Prefix_Max.cpp) |
+| [2210B - Simply Sitting on Chairs](https://codeforces.com/contest/2210/problem/B) | 900 | data structures, greedy | [Solution](Codeforces/900/B_Simply_Sitting_on_Chairs.cpp) |
+| [2185C - Shifted MEX](https://codeforces.com/contest/2185/problem/C) | 900 | implementation, sortings | [Solution](Codeforces/900/C_Shifted_MEX.cpp) |
+| [160A - Twins](https://codeforces.com/contest/160/problem/A) | 900 | greedy, sortings | [Solution](Codeforces/900/A_Twins.cpp) |
+| [318A - Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | math | [Solution](Codeforces/900/A_Even_Odds.py) |
+| [160A - Twins](https://codeforces.com/contest/160/problem/A) | 900 | greedy, sortings | [Solution](Codeforces/900/A_Twins.py) |
+| [916A - Jamie and Alarm Snooze](https://codeforces.com/contest/916/problem/A) | 900 | brute force, implementation, math | [Solution](Codeforces/900/A_Jamie_and_Alarm_Snooze.cpp) |
+| [268B - Buttons](https://codeforces.com/contest/268/problem/B) | 1000 | implementation, math | [Solution](Codeforces/1000/B_Buttons.cpp) |
+| [2193C - Replace and Sum](https://codeforces.com/contest/2193/problem/C) | 1000 | data structures, greedy | [Solution](Codeforces/1000/C_Replace_and_Sum.cpp) |
+| [2034B - Rakhsh's Revival](https://codeforces.com/contest/2034/problem/B) | 1000 | data structures, greedy, implementation, two pointers | [Solution](Codeforces/1000/B_Rakhsh_s_Revival.cpp) |
+| [2204C - Spring](https://codeforces.com/contest/2204/problem/C) | 1000 | math, number theory | [Solution](Codeforces/1000/C_Spring.cpp) |
+| [2090B - Pushing Balls](https://codeforces.com/contest/2090/problem/B) | 1000 | brute force, dp, implementation | [Solution](Codeforces/1000/B_Pushing_Balls.cpp) |
+| [1632B - Roof Construction](https://codeforces.com/contest/1632/problem/B) | 1000 | bitmasks, constructive algorithms | [Solution](Codeforces/1000/B_Roof_Construction.cpp) |
+| [2194B - Offshores](https://codeforces.com/contest/2194/problem/B) | 1000 | greedy, implementation, math | [Solution](Codeforces/1000/B_Offshores.cpp) |
+| [2197B - Array and Permutation](https://codeforces.com/contest/2197/problem/B) | 1100 | implementation, schedules, sortings, two pointers | [Solution](Codeforces/1100/B_Array_and_Permutation.cpp) |
+| [2184B - Hourglass](https://codeforces.com/contest/2184/problem/B) | 1100 | math | [Solution](Codeforces/1100/B_Hourglass.cpp) |
+| [2208B - Cyclists](https://codeforces.com/contest/2208/problem/B) | 1100 | brute force, games, greedy, implementation, math, sortings | [Solution](Codeforces/1100/B_Cyclists.cpp) |
+| [2194C - Secret message](https://codeforces.com/contest/2194/problem/C) | 1300 | bitmasks, brute force, dp, math, number theory | [Solution](Codeforces/1300/C_Secret_message.cpp) |
+| [2194C - Secret message](https://codeforces.com/contest/2194/problem/C) | 1300 | bitmasks, brute force, dp, math, number theory | [Solution](Codeforces/1300/C_Secret_message.py) |
+| [1950E - Nearly Shortest Repeating Substring](https://codeforces.com/contest/1950/problem/E) | 1500 | brute force, implementation, number theory, strings | [Solution](Codeforces/1500/E_Nearly_Shortest_Repeating_Substring.cpp) |
+| longest - seq | Unrated |  | [Solution](Codeforces/Unrated/longest_seq.cpp) |
+| [1531C - Симметричный амфитеатр](https://codeforces.com/contest/1531/problem/C) | Unrated | *special, constructive algorithms, dp | [Solution](Codeforces/Unrated/C_Game_with_a_Fraction.cpp) |
+| N/A - count | Unrated |  | [Solution](Codeforces/Unrated/count.cpp) |
+| [2214A - Odd One Out](https://codeforces.com/contest/2214/problem/A) | Unrated | *special, graph matchings, implementation | [Solution](Codeforces/Unrated/A_Odd_One_Out.cpp) |
