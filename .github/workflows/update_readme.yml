@@ -7,6 +7,8 @@ on:
       - master
     paths:
       - 'Codeforces/**'
+      - 'LeetCode/**'
+      - 'GFG/**'
 
 permissions:
   contents: write
